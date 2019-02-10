@@ -1,0 +1,6 @@
+*.o
+*.a
+*/
+./indexertest1
+./indexertest2
+./output1
